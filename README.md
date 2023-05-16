@@ -1,5 +1,6 @@
 # CustomerChurn
-##Abstract
+
+Abstract
 The objective of this AI project is to develop a model for predicting customer churn in the
 telecommunications industry. Customer churn is a major concern for telco companies as losing customers
 impacts revenue and growth. In this project, machine learning algorithms will be employed to analyze
